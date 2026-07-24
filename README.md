@@ -1,4 +1,4 @@
-# Please refer to the [gh-pages](/tree/gh-pages) repo for the actual info.
+# Please refer to the [gh-pages](https://github.com/Kabezz/scratch-songmaker2-branch/tree/gh-pages) repo for the actual info.
 
 # scratch-editor: The Scratch Editor Monorepo
 
