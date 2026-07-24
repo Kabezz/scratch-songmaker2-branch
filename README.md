@@ -1,3 +1,5 @@
+# Please refer to the [gh-pages](/tree/gh-pages) repo for the actual info.
+
 # scratch-editor: The Scratch Editor Monorepo
 
 If you'd like to use Scratch, please visit the [Scratch website](https://scratch.mit.edu/). You can build your own
