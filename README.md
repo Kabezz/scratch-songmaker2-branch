@@ -1,4 +1,5 @@
-# Please refer to the [gh-pages](https://github.com/Kabezz/scratch-songmaker2-branch/tree/gh-pages) repo for the actual info.
+# You are currently in the develop branch, which is NOT where the actual changes are made. Please refer to the [gh-pages](https://github.com/Kabezz/scratch-songmaker2-branch/tree/gh-pages) repo for the actual info.
+everything from this point on is the original readme
 
 # scratch-editor: The Scratch Editor Monorepo
 
